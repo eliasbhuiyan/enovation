@@ -1,0 +1,390 @@
+@media (min-width: 1400px) {  }
+@media (min-width: 1200px) and (max-width: 1399.98px) {  }
+@media (min-width: 992px) and (max-width: 1199.98px) {  }
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .common_heading h2 {
+        font-size: 24px;
+        padding: 12px 0 24px;
+    }
+    .common_heading p {
+        font-size: 16px;
+        padding-bottom: 56px;
+    }
+    .common_btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+/*=================== Common Css End ================ */
+/*=================== Menu Part Start ================ */
+.main_menu .navbar-brand {
+    width: 85px;
+}
+.main_menu ul {
+    gap: 15px;
+    align-items: center;
+}
+.menu_btn{
+    display: flex;
+    justify-content: center;
+}
+/*=================== Menu Part End ================ */
+/*=================== Banner Part Start ================ */
+#banner {
+	padding: 140px 0 140px;
+}
+.banner_text h1 {
+	font-size: 42px;
+}
+.banner_buttons {
+	gap: 30px;
+	flex-direction: column;
+}
+/*=================== Banner Part End ================ */
+/*=================== About Part Start ================ */
+#about_company {
+	padding: 80px 0;
+}
+.about_details{
+    margin-top: 24px;
+}
+.about_details h3 {
+	font-size: 20px;
+}
+.about_details h2 {
+	font-size: 26px;
+}
+.about_details p {
+	font-size: 14px;
+	padding-bottom: 30px;
+}
+/*=================== About Part End ================ */
+/*=================== Counter Part Start ================ */
+.counter_content .counter_items {
+	padding: 0 40px;
+	text-align: center;
+}
+.counter_content .counter_items h3 {
+	font-size: 38px;
+}
+.counter_content .counter_items p {
+	font-size: 16px;
+}
+/*=================== Counter Part End ================ */
+/*=================== Service Part Start ================ */
+#services {
+	padding: 80px 0;
+}
+.service_head {
+	width: 100%;
+}
+/*=================== Service Part End ================ */
+/*=================== Choose Use Part Start ================ */
+.chooseUs_details {
+	flex-direction: row;
+}
+.chooseUs_img {
+	width: 100%;
+	margin-top: 24px;
+}
+/*=================== Choose Use Part End ================ */
+/*=================== Projects Part Start ================ */
+.projects_main {
+	position: static;
+    row-gap: 20px;
+}
+/*=================== Projects Part End ================ */
+/*=================== FeedBack Part Start ================ */
+#feedback {
+	padding: 0 0 80px;
+}
+/*=================== FeedBack Part End ================ */
+/*=================== News Part Start ================ */
+#news {
+	padding: 0 0 80px;
+}
+.news_heading {
+	width: 100%;
+}
+/*=================== News Part End ================ */
+/*=================== Footer Part Start ================ */
+#footer {
+	padding: 80px 0 57px;
+}
+.footer_logo{
+    width: 110px;
+}
+.footer_menu {
+	margin: 20px 0;
+}
+.footer_menu {
+	margin: 20px 0;
+}
+.footer_menu {
+	margin: 20px 0;
+}
+/*=================== Footer Part End ================ */
+
+ }
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .common_heading h2 {
+        font-size: 24px;
+        padding: 12px 0 24px;
+    }
+    .common_heading p {
+        font-size: 16px;
+        padding-bottom: 56px;
+    }
+    .common_btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+/*=================== Common Css End ================ */
+/*=================== Menu Part Start ================ */
+.main_menu .navbar-brand {
+    width: 85px;
+}
+.main_menu ul {
+    gap: 15px;
+    align-items: center;
+}
+.menu_btn{
+    display: flex;
+    justify-content: center;
+}
+/*=================== Menu Part End ================ */
+/*=================== Banner Part Start ================ */
+#banner {
+	padding: 140px 0 140px;
+}
+.banner_text h1 {
+	font-size: 42px;
+}
+.banner_buttons {
+	gap: 30px;
+	flex-direction: column;
+}
+/*=================== Banner Part End ================ */
+/*=================== About Part Start ================ */
+#about_company {
+	padding: 80px 0;
+}
+.about_details{
+    margin-top: 24px;
+}
+.about_details h3 {
+	font-size: 20px;
+}
+.about_details h2 {
+	font-size: 26px;
+}
+.about_details p {
+	font-size: 14px;
+	padding-bottom: 30px;
+}
+/*=================== About Part End ================ */
+/*=================== Counter Part Start ================ */
+.counter_content {
+	flex-direction: column;
+	align-items: center;
+    gap: 20px;
+}
+.counter_content .counter_items {
+	padding: 0;
+	text-align: center;
+	border-right: none;
+}
+.counter_content .counter_items h3 {
+	font-size: 38px;
+}
+.counter_content .counter_items p {
+	font-size: 16px;
+}
+/*=================== Counter Part End ================ */
+/*=================== Service Part Start ================ */
+#services {
+	padding: 80px 0;
+}
+.service_head {
+	width: 100%;
+}
+/*=================== Service Part End ================ */
+/*=================== Choose Use Part Start ================ */
+.chooseUs_details {
+	flex-direction: row;
+}
+.chooseUs_img {
+	width: 100%;
+	margin-top: 24px;
+}
+/*=================== Choose Use Part End ================ */
+/*=================== Projects Part Start ================ */
+.projects_main {
+	position: static;
+    row-gap: 20px;
+}
+/*=================== Projects Part End ================ */
+/*=================== FeedBack Part Start ================ */
+#feedback {
+	padding: 0 0 80px;
+}
+/*=================== FeedBack Part End ================ */
+/*=================== News Part Start ================ */
+#news {
+	padding: 0 0 80px;
+}
+.news_heading {
+	width: 100%;
+}
+/*=================== News Part End ================ */
+/*=================== Footer Part Start ================ */
+#footer {
+	padding: 80px 0 57px;
+}
+.footer_logo{
+    width: 110px;
+}
+.footer_menu {
+	margin: 20px 0;
+}
+.footer_menu {
+	margin: 20px 0;
+}
+.footer_menu {
+	margin: 20px 0;
+}
+/*=================== Footer Part End ================ */
+
+ }
+@media (max-width: 575.98px) { 
+    .common_heading h2 {
+        font-size: 24px;
+        padding: 12px 0 24px;
+    }
+    .common_heading p {
+        font-size: 16px;
+        padding-bottom: 56px;
+    }
+    .common_btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+/*=================== Common Css End ================ */
+/*=================== Menu Part Start ================ */
+.main_menu .navbar-brand {
+    width: 85px;
+}
+.main_menu ul {
+    gap: 15px;
+    align-items: center;
+}
+.menu_btn{
+    display: flex;
+    justify-content: center;
+}
+/*=================== Menu Part End ================ */
+/*=================== Banner Part Start ================ */
+#banner {
+	padding: 140px 0 140px;
+}
+.banner_text h1 {
+	font-size: 38px;
+}
+.banner_buttons {
+	gap: 30px;
+	flex-direction: column;
+}
+/*=================== Banner Part End ================ */
+/*=================== About Part Start ================ */
+#about_company {
+	padding: 80px 0;
+}
+.about_details{
+    margin-top: 24px;
+}
+.about_details h3 {
+	font-size: 20px;
+}
+.about_details h2 {
+	font-size: 26px;
+}
+.about_details p {
+	font-size: 14px;
+	padding-bottom: 30px;
+}
+/*=================== About Part End ================ */
+/*=================== Counter Part Start ================ */
+.counter_content {
+	flex-direction: column;
+	align-items: center;
+    gap: 20px;
+}
+.counter_content .counter_items {
+	padding: 0;
+	text-align: center;
+	border-right: none;
+}
+.counter_content .counter_items h3 {
+	font-size: 30px;
+}
+.counter_content .counter_items p {
+	font-size: 14px;
+}
+/*=================== Counter Part End ================ */
+/*=================== Service Part Start ================ */
+#services {
+	padding: 80px 0;
+}
+.service_head {
+	width: 100%;
+}
+/*=================== Service Part End ================ */
+/*=================== Choose Use Part Start ================ */
+.chooseUs_details {
+	flex-direction: column;
+}
+.chooseUs_img {
+	width: 100%;
+	margin-top: 24px;
+}
+/*=================== Choose Use Part End ================ */
+/*=================== Projects Part Start ================ */
+.projects_main {
+	position: static;
+    gap: 24px;
+}
+/*=================== Projects Part End ================ */
+/*=================== FeedBack Part Start ================ */
+#feedback {
+	padding: 0 0 80px;
+}
+/*=================== FeedBack Part End ================ */
+/*=================== News Part Start ================ */
+#news {
+	padding: 0 0 80px;
+}
+.news_heading {
+	width: 100%;
+}
+#news .row{
+    gap: 24px;
+}
+/*=================== News Part End ================ */
+/*=================== Footer Part Start ================ */
+#footer {
+	padding: 80px 0 57px;
+}
+.footer_logo{
+    width: 110px;
+}
+.footer_menu {
+	margin: 20px 0;
+}
+.footer_menu {
+	margin: 20px 0;
+}
+.footer_menu {
+	margin: 20px 0;
+}
+/*=================== Footer Part End ================ */
+
+}
