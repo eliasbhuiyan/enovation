@@ -6,7 +6,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body{
     font-family: "Open Sans", sans-serif;
 }
@@ -14,22 +13,18 @@ a{
     display: inline-block;
     text-decoration: none;
 }
-
 img{
     width: 100%;
     max-width: 100%;
     vertical-align: middle;
 }
-
 ul,ol{
     list-style: none;
 }
-
 h1,h2,h3,h4,h5,h6,p,ul{
     margin: 0;
     padding: 0;
 }
-
 .common_btn{
     padding: 14px 28px;
     border-radius: 100px;
@@ -38,7 +33,6 @@ h1,h2,h3,h4,h5,h6,p,ul{
     font-size: 20px;
     font-weight: 700;
 }
-
 .common_heading h3{
     font-size: 24px;
     font-weight: 500;
